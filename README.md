@@ -1,37 +1,64 @@
-# Bloodlines
+<p align="center">
+  <img src="assets/branding/bloodlines-wallpaper-4k.png" alt="Bloodlines" width="100%">
+</p>
 
-![Bloodlines Wallpaper](assets/branding/bloodlines-wallpaper-4k.png)
+<h1 align="center">🧬 Bloodlines</h1>
 
-> **Evolution begins with survival.**
+<p align="center">
+<b>Evolution begins with survival.</b><br>
+A gritty genetic progression overhaul for <b>7 Days to Die v3.0+</b>
+</p>
 
-A gritty **genetic progression overhaul** for **7 Days to Die v3.0+**.
-
-Bloodlines reimagines progression through rediscovered biotechnology rather than traditional skill trees. Survivors recover DNA Fragments, sequence DNA Helixes, increase Genetic Stability, and evolve one of six unique Bloodlines while rebuilding humanity's lost research.
+<p align="center">
+🚧 <b>Alpha 0.1 — Genesis</b> &nbsp; | &nbsp; 🧬 Rediscovered Biotechnology &nbsp; | &nbsp; 👥 Solo & Multiplayer
+</p>
 
 ---
+
+## Welcome to Bloodlines
+
+Bloodlines replaces traditional RPG progression with a **genetic evolution system** inspired by rediscovered biotechnology.
+
+Recover DNA Fragments.
+Sequence DNA Helixes.
+Increase your Genetic Stability.
+Develop your Bloodline.
+Restore humanity's forgotten research.
 
 ## Core Features
 
-- 🧬 Six unique Bloodlines
-- 🧬 DNA Helix progression
-- 🧬 Genetic Stability system
-- 🧬 Bloodline Keystone
-- 🧬 Base technology progression
-- 🧬 Rediscovered biotechnology lore
-- 🧬 Designed for solo and multiplayer
+- 🧬 Six distinct Bloodlines
+- 🧬 DNA Helix progression system
+- 🧬 Genetic Stability progression
+- 🧬 Bloodline Keystone technology
+- 🧬 Base progression through genetic integration
+- 🧬 Environmental storytelling and hidden lore
+- 🧬 Balanced for solo and cooperative play
 
 ---
 
-## Development Status
+## Development Roadmap
 
-**Alpha 0.1 — Genesis**
+| Release | Codename |
+|---------|----------|
+| Alpha 0.1 | Genesis |
+| Alpha 0.2 | Awakening |
+| Alpha 0.3 | Knowledge |
+| Alpha 0.4 | Cornerstone |
+| Version 1.0 | Foundations |
 
-Bloodlines is currently in active development.
+See the full roadmap in the **docs** folder.
 
-Follow the roadmap in the `docs` folder to track progress through Genesis, Awakening, Knowledge, Cornerstone, and beyond.
+---
+
+## Vision
+
+Technology should feel **rediscovered**, not invented.
+
+Bloodlines is built around abandoned laboratories, damaged research, improvised sequencing equipment, forgotten facilities and controlled human evolution—not futuristic superhero technology.
 
 ---
 
 ## Author
 
-**ApexVibe**
+Created by **ApexVibe**
