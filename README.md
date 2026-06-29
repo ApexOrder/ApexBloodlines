@@ -1,23 +1,37 @@
-# Apex Bloodlines
+# Bloodlines
 
-**Apex Bloodlines** is a class-based progression overhaul for **7 Days to Die v3.0+**.
+![Bloodlines Wallpaper](assets/branding/bloodlines-wallpaper-4k.png)
 
-Players forge a Bloodline, discover Tomes, and progress their base through the Bloodline Keystone.
+> **Evolution begins with survival.**
 
-> Forge Your Legacy. Build Your Bloodline.
+A gritty **genetic progression overhaul** for **7 Days to Die v3.0+**.
 
-## Version 1.0 Status
+Bloodlines reimagines progression through rediscovered biotechnology rather than traditional skill trees. Survivors recover DNA Fragments, sequence DNA Helixes, increase Genetic Stability, and evolve one of six unique Bloodlines while rebuilding humanity's lost research.
 
-In development.
+---
 
-## Core Systems
+## Core Features
 
-- Bloodlines
-- Tomes
-- Bloodline Keystone
-- Base progression
-- Technology branches
+- 🧬 Six unique Bloodlines
+- 🧬 DNA Helix progression
+- 🧬 Genetic Stability system
+- 🧬 Bloodline Keystone
+- 🧬 Base technology progression
+- 🧬 Rediscovered biotechnology lore
+- 🧬 Designed for solo and multiplayer
+
+---
+
+## Development Status
+
+**Alpha 0.1 — Genesis**
+
+Bloodlines is currently in active development.
+
+Follow the roadmap in the `docs` folder to track progress through Genesis, Awakening, Knowledge, Cornerstone, and beyond.
+
+---
 
 ## Author
 
-ApexVibe
+**ApexVibe**
