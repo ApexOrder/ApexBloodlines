@@ -15,37 +15,123 @@ A gritty genetic progression overhaul for <b>7 Days to Die v3.0+</b>
 
 ---
 
-## Welcome to Bloodlines
+## What Makes Bloodlines Different?
 
-Bloodlines replaces traditional RPG progression with a **genetic evolution system** inspired by rediscovered biotechnology.
+**Bloodlines isn't another perk overhaul.**
 
-Recover DNA Fragments.
-Sequence DNA Helixes.
-Increase your Genetic Stability.
-Develop your Bloodline.
-Restore humanity's forgotten research.
+Most survival games ask one question:
+
+> How strong is your character?
+
+Bloodlines asks two:
+
+> How has your survivor evolved?
+
+> How much knowledge has your base recovered?
+
+Those two questions define the entire mod.
+
+---
+
+## Core Philosophy
+
+**Characters evolve through DNA.**
+
+**Bases evolve through knowledge.**
+
+These systems are separate by design.
+
+- 🧬 **DNA Helixes** evolve the survivor.
+- 📚 **Research Notes** recover lost knowledge.
+- 🗄️ **Research Archives** advance the base.
+- 🏛️ **The Bloodline Keystone** stores knowledge, not DNA.
+- 🔒 **DNA Locks** prevent technology from being used before the survivor is genetically capable.
+
+---
+
+## The Bloodlines Loop
+
+```text
+Explore
+↓
+Recover DNA
+↓
+Recover Research
+↓
+Sequence DNA
+↓
+Evolve Survivor
+↓
+Archive Research
+↓
+Upgrade Base
+↓
+Unlock Technology
+```
+
+---
+
+## DNA Locks
+
+Advanced technology is protected by **DNA Locks**.
+
+Knowing how to build something is no longer enough. Your survivor must also be genetically capable of using or producing that technology.
+
+Example:
+
+```text
+Steel Pickaxe
+
+Requirements:
+✔ Mining Knowledge
+✔ Forging Research
+✔ Workstation Access
+❌ TERRA Helix α
+```
+
+The perk tree provides knowledge and efficiency. Bloodlines provide capability.
+
+---
 
 ## Core Features
 
 - 🧬 Six distinct Bloodlines
-- 🧬 DNA Helix progression system
+- 🧬 Personal DNA Helix progression
 - 🧬 Genetic Stability progression
-- 🧬 Bloodline Keystone technology
-- 🧬 Base progression through genetic integration
-- 🧬 Environmental storytelling and hidden lore
-- 🧬 Balanced for solo and cooperative play
+- 🔒 DNA Locks for advanced technology
+- 📚 Research Notes and Research Archives
+- 🏛️ Bloodline Keystone base progression
+- 🧪 Rediscovered biotechnology lore
+- 👥 Balanced for solo and cooperative play
+
+---
+
+## Design Philosophy
+
+Bloodlines follows a strict design constitution:
+
+- Discover, don't explain.
+- Technology is rediscovered, never invented.
+- Exploration must always matter.
+- Characters evolve.
+- Bases advance.
+- Knowledge unlocks technology.
+- DNA unlocks capability.
+- Solo is always viable.
+- Cooperation accelerates progression but never replaces it.
+- Nothing should feel like magic or superhero power.
 
 ---
 
 ## Development Roadmap
 
-| Release | Codename |
-|---------|----------|
-| Alpha 0.1 | Genesis |
-| Alpha 0.2 | Awakening |
-| Alpha 0.3 | Knowledge |
-| Alpha 0.4 | Cornerstone |
-| Version 1.0 | Foundations |
+| Release | Codename | Focus |
+|---------|----------|-------|
+| Alpha 0.1 | Genesis | Project foundation |
+| Alpha 0.2 | Awakening | Bloodline framework |
+| Alpha 0.3 | Knowledge | DNA and research systems |
+| Alpha 0.4 | Cornerstone | Keystone framework |
+| Version 1.0 | Foundations | First public release |
 
 See the full roadmap in the **docs** folder.
 
@@ -55,7 +141,7 @@ See the full roadmap in the **docs** folder.
 
 Technology should feel **rediscovered**, not invented.
 
-Bloodlines is built around abandoned laboratories, damaged research, improvised sequencing equipment, forgotten facilities and controlled human evolution—not futuristic superhero technology.
+Bloodlines is built around abandoned laboratories, damaged research, improvised sequencing equipment, forgotten facilities and controlled human evolution — not futuristic superhero technology.
 
 ---
 
